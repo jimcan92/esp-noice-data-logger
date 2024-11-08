@@ -1,6 +1,6 @@
 #include <HTTPClient.h>
 
-const char* scriptUrl = "https://script.google.com/macros/s/AKfycbzw0qkXE4fdIHP9ECWycWQfIPE31oCPWPd6aBzn1phFZcd2CkwgK2wv3ixAARwKmjKp-g/exec";
+const char* scriptUrl = "https://script.google.com/macros/s/AKfycbwlMwvPKgSd7_DRchSeHIXCdNHCAFJOveUdJPjzWi6JMb9UQQCvFT1YDUnjhE56AYuYlA/exec";
 
 HTTPClient http;
 
